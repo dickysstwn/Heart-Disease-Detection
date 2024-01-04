@@ -11,7 +11,7 @@ Heart disease is a disease of serious concern in global health. Early prediction
 | -------------------- | ------------------ | ----------- |
 | Dicky Setiawan       | A11.2020.13089     | BKDS07      |
 
-Career Guidance (Bimbingan Karier) Project - BKDS07 - FIK UDINUS - 2023
+Career Guidance (Bimbingan Karier) Project - BKDS07 - FIK UDINUS - 2024
 
 ## 🖥️ Streamlit Deployment
 
