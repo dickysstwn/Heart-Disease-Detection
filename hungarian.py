@@ -7,13 +7,13 @@ import streamlit as st
 import time
 import pickle
 
-model = pickle.load(open("/model/rf_model.pkl", 'rb'))
-model_info = pickle.load(open("/model/model_info.pkl", 'rb'))
+model = pickle.load(open("model/rf_model.pkl", 'rb'))
+model_info = pickle.load(open("model/model_info.pkl", 'rb'))
 
 accuracy = model_info['accuracy']
 df_final = model_info['df4MinMax']
 
-scaler_ = pickle.load(open("/model/scaler.pkl", 'rb'))
+scaler_ = pickle.load(open("model/scaler.pkl", 'rb'))
 
 # ========================================================================================================================================================================================
 
